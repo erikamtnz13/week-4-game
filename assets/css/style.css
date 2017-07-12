@@ -38,5 +38,16 @@ h1 {
 	border-top: 1px solid grey;
 }
 
+h1:hover {
+    color: hotpink;
+}
+
+.panel-body:hover {
+	background: #FFFACD;
+}
+
+.img-responsive:hover {
+	max-width: 20%;
+}
 
 
